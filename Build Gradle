@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.jamunapvc.joms'
+    namespace 'com.jamunaupvc.joms'
     compileSdk 35
 
     defaultConfig {
-        applicationId 'com.jamunapvc.joms'
+        applicationId 'com.jamunaupvc.joms'
         minSdk 23
         targetSdk 35
         versionCode 1
